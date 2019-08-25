@@ -1,0 +1,16 @@
+.icon {
+  height: 1.6rem;
+  width: 1.6rem;
+
+  &--sunny {
+    fill: yellow;
+  }
+
+  &--night {
+    fill: black;
+  }
+
+  &--na {
+    fill: red;
+  }
+}

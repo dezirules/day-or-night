@@ -1,0 +1,12 @@
+.marker {
+  width: 100px;
+  height: 100px;
+  transform: translate(-50%, -15%);
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
